@@ -42,8 +42,3 @@ ldap = {
   },
 }
 ```
-
-Requirment
-----------
-
-mod_lib_ldap
